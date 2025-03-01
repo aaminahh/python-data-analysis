@@ -15,7 +15,8 @@ Built and evaluated a KNN classification model with __scikit-learn__ packages in
 
 ### Decision tree regression</br>
 Built and evaluated a regression tree with __scikit-learn__ packages including a training/test split of the data, as well as communicated the model building decisions, results, and limitations.
-## Multiple Logistic Regression</br>
+
+### Multiple Logistic Regression</br>
 Built and compared multiple logistic regression models with __statsmodels__ package to assess how multiple variables affect the binary categorical response variable at the same time. Used primary component analysis and variance inflation factors to determine variables of interest.
 
 ### Multiple Linear Regression</br>
